@@ -30,4 +30,3 @@ I’m particularly interested in creating efficient, scalable systems and turnin
 
 if you want to connect with me check the info displayed on the left ⬅️
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzopicci17)
