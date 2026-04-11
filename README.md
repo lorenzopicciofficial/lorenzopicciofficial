@@ -14,11 +14,8 @@ I work on practical projects with a strong focus on scalability, automation, and
 ---
 
 ## 🛠 Principal and Favourite Tech Stack
-- Languages:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-- Frontend:
-  - ![React](https://img.shields.io/badge/React_(learning)-000?style=for-the-badge&logo=react)
-  - ![Next.js](https://img.shields.io/badge/Next.js_(learning)-000?style=for-the-badge&logo=next.js)   
+- Languages: ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+- Frontend: ![React](https://img.shields.io/badge/React_(learning)-000?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js_(learning)-000?style=for-the-badge&logo=next.js)   
 - Backend:
   - ![Node.js](https://img.shields.io/badge/Node.js_(learning)-000?style=for-the-badge&logo=node.js)
 - Database:
