@@ -29,3 +29,5 @@ I’m currently focused on strengthening my technical skills while building real
 I’m particularly interested in creating efficient, scalable systems and turning ideas into concrete digital products.
 
 if you want to connect with me check the info displayed on the left ⬅️
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME)
