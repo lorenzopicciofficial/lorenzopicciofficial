@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lorenzo 👋
 
-<!--
-**lorenzopicci17/lorenzopicci17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and freelance developer focused on building web applications and digital solutions.  
+I work on practical projects with a strong focus on scalability, automation, and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Design and develop web applications
+- Build automation tools and optimize workflows
+- Create digital solutions for real use cases
+- Work on personal and freelance projects
+
+---
+
+## 🛠 Tech Stack
+- Languages: JavaScript, C, C++, C#, Java ...
+- Frontend: React (learning), Next.js (learning)  
+- Backend: Node.js (learning)
+- Database: PostgreSQL, MySQL
+- Mobile: Swift (SwiftUI), Android (Java)
+- Tools: Git, Docker, NMap, WireShark, WireGuard
+- Environment: MacOS, Windows (Client + Server), Linux, Proxmox (favourite Hypervisor)
+
+---
+
+## 🌐 Connect with Me
+- Website: https://www.piccilorenzo.it  
+- LinkedIn: (already linked in profile)
+- mail: business@piccilorenzo.it
+
+---
+
+## ⚡ About Me
+I’m currently focused on strengthening my technical skills while building real-world projects and growing my freelance activity.  
+I’m particularly interested in creating efficient, scalable systems and turning ideas into concrete digital products.
