@@ -24,13 +24,8 @@ I work on practical projects with a strong focus on scalability, automation, and
 
 ---
 
-## 🌐 Connect with Me
-- Website: https://www.piccilorenzo.it  
-- LinkedIn: (already linked in profile)
-- mail: business@piccilorenzo.it
-
----
-
 ## ⚡ About Me
 I’m currently focused on strengthening my technical skills while building real-world projects and growing my freelance activity.  
 I’m particularly interested in creating efficient, scalable systems and turning ideas into concrete digital products.
+
+if you want to connect with me check the info displayed on the left ⬅️
