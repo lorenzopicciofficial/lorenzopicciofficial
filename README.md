@@ -13,7 +13,7 @@ I work on practical projects with a strong focus on scalability, automation, and
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Principal and Favourite Tech Stack
 - Languages: JavaScript, C, C++, C#, Java ...
 - Frontend: React (learning), Next.js (learning)  
 - Backend: Node.js (learning)
@@ -21,6 +21,9 @@ I work on practical projects with a strong focus on scalability, automation, and
 - Mobile: Swift (SwiftUI), Android (Java)
 - Tools: Git, Docker, NMap, WireShark, WireGuard
 - Environment: MacOS, Windows (Client + Server), Linux, Proxmox (favourite Hypervisor)
+
+- 💻 Full Tech Stack:
+C C# C++ HTML5 Java JavaScript Python Swift Windows Terminal Google Cloud AWS Azure Cloudflare Firebase Vercel OVH Render Oracle .Net Expo Electron.js NodeJS Next JS Xamarin Apache Nginx Postgres Supabase Firebase MySQL MongoDB MicrosoftSQLServer Adobe Acrobat Reader Adobe Premiere Pro Adobe Illustrator Canva Figma GitHub Actions Gitea Git GitHub Arduino Bitwarden Cisco Docker Jellyfin Notion Postman Wireguard Adobe and more...
 
 ---
 
