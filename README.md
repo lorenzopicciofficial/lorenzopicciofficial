@@ -3,6 +3,8 @@
 Computer Science student and freelance developer focused on building web applications and digital solutions.  
 I work on practical projects with a strong focus on scalability, automation, and real-world impact.
 
+[![GitLab](https://img.shields.io/badge/GitLab-lorenzopicciofficial-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/lorenzopicciofficial)
+
 ---
 
 ## 🚀 What I Do
