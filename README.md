@@ -17,10 +17,10 @@ I work on practical projects with a strong focus on scalability, automation, and
 
 - **Web Development**: ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![HTML5/CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-000?style=for-the-badge&logo=html5)
 - **Backend & Linguaggi**: ![C# / ASP.NET](https://img.shields.io/badge/C%23%20%2F%20ASP.NET-000?style=for-the-badge&logo=dotnet) ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-- **Mobile**: ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift)
+- **Mobile**: ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-- **Infra & DevOps**: ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux) ![WireGuard](https://img.shields.io/badge/WireGuard-000?style=for-the-badge) ![Git / Versioning](https://img.shields.io/badge/Git%20%2F%20Versioning-000?style=for-the-badge&logo=git)
-- **Sistemi Operativi**: ![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
+- **Infra & DevOps**: ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) ![WireGuard](https://img.shields.io/badge/WireGuard-000?style=for-the-badge) ![Git / Versioning](https://img.shields.io/badge/Git%20%2F%20Versioning-000?style=for-the-badge&logo=git)
+- **Sistemi Operativi**: ![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ---
 
